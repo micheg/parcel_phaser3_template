@@ -8,6 +8,12 @@
 		"build": "parcel build src/index.html --out-dir dist --no-source-maps"
 	},
 	"author": "micheg",
+    "keywords":
+	[
+		"phaser",
+		"phaser3",
+		"phaser-boilerplate"
+	],
 	"license": "MIT",
 	"repository":
 	{
